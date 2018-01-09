@@ -1,4 +1,4 @@
-# [Distributed System] Chord P2P Network
+# Chord P2P Network
 A peer-to-peer network that uses distributed hash table to store, query and retrieve data from corresponding nodes.
 ## Details
 ### Components
