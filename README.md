@@ -1,4 +1,4 @@
-# [Distributed System][TCP/IP] Chord P2P Networkm
+# [Distributed System] Chord P2P Network
 This project is for CS555 Distributed System. It uses peer-to-peer distributed hash table to store query and retrieve data from corresponding node. 
 ## Details
 ### Components
