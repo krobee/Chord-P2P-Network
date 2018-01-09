@@ -1,0 +1,4 @@
+jupiter:8080
+jupiter:8081
+mars:8081
+mars:8082
